@@ -1,0 +1,10 @@
+[project]
+name = "openpiv-python-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "marimo>=0.20.2",
+    "openpiv>=0.25.3",
+]
